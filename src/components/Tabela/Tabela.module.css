@@ -1,0 +1,39 @@
+.tabela {
+  margin: 30px auto;
+  text-align: center;
+  font-weight: bold;
+  font-weight: 100;
+  color: #fff;
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 5px 100px;
+}
+
+.tituloTabela {
+  color: green;
+  font-weight: 900;
+}
+
+.primeiraLinha {
+  background-color: #e8e7e7;
+  color: #383737;
+  font-weight: 900;
+}
+
+.baixoPeso {
+  background-color: var(--corBaixoPeso);
+}
+
+.normal {
+  background-color: var(--corNormal);
+}
+
+.sobrepeso {
+  background-color: var(--corSobrepeso);
+}
+
+.obesidade {
+  background-color: var(--corObesidade);
+}

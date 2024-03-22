@@ -1,0 +1,19 @@
+.seuIMC {
+  padding: 15px;
+}
+
+.resultadoBaixoPeso {
+  background-color: var(--corBaixoPeso);
+}
+
+.resultadoNormal {
+  background-color: var(--corNormal);
+}
+
+.resultadoSobrepeso {
+  background-color: var(--corSobrepeso);
+}
+
+.resultadoObesidade {
+  background-color: var(--corObesidade);
+}
